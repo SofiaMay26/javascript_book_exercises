@@ -7,3 +7,9 @@ console.log(numArrayOfArray);
 // Output the value 2 from one of the array into the console.
 let outputValue2 = numArray.indexOf(2);
 console.log(outputValue2);
+// find the index of number 
+numIndex = numArray.indexOf(2);
+console.log(numIndex);
+// display the array reverse
+numArray.reverse()
+console.log(numArray);
